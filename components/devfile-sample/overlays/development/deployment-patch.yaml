@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/ysubrama-tenant/devfile-sample/devfile-sample@sha256:5e49b6a4e544b0bfd56626b5fce149f6063a92edd5262a47fd698e35f7927983
+      - image: quay.io/redhat-user-workloads/ysubrama-tenant/devfile-sample/devfile-sample@sha256:d36b447d432e5f41673f35a75cd8a0e137ae97e18b48e0be140dc3d5bcfd70e0
         name: my-nodejs
         resources: {}
 status: {}
